@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * selections_sort - Sort
+ * selection_sort - Sort
  * @array: int
  * @size: Size_t
  * Return: Always 0
