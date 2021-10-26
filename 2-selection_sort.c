@@ -5,7 +5,7 @@
  * @size: Size_t
  * Return: Always 0
  */
-void selections_sort(int *array, size_t size)
+void selection_sort(int *array, size_t size)
 {
 	size_t i, j, min_idx, aux;
 
